@@ -45,11 +45,11 @@ Currently there are 3 annunciator sounds.
 2. Angle of Attack warning
 3. Gear Warning (Gear Up & Gear Down)
 
-1. Over-G warning annunciator will be activated when the G-Force exceeds the given threshold then Betty will call out "Over G" repeatedly. The default threshold is "6 G's", but the user can change it from options tab and save. 
+Over-G warning annunciator will be activated when the G-Force exceeds the given threshold then Betty will call out "Over G" repeatedly. The default threshold is "6 G's", but the user can change it from options tab and save. 
 
-2. Angle of Attack warning annunciator will be activated when Angle of Attack exceeds the given threshold then Betty will call out a "Stall Horn" which means you are about to stall your aircraft. Stalls can happen at any speed if you pull too hard on the stick. The Angle of Attack annuciator will be available if the gears are retracted so you will not hear anything if you are about to stall in a landing configuration (gears down position). Default threshold is 12 degrees.
+Angle of Attack warning annunciator will be activated when Angle of Attack exceeds the given threshold then Betty will call out a "Stall Horn" which means you are about to stall your aircraft. Stalls can happen at any speed if you pull too hard on the stick. The Angle of Attack annuciator will be available if the gears are retracted so you will not hear anything if you are about to stall in a landing configuration (gears down position). Default threshold is 12 degrees.
 
-3. Gear warning annunciator will be activated when you forget to gear up or gear down. While airborne if you forget to gear up at speeds greater than 250 km/h Betty will call "Gear up" and if you forget to gear down when you are about to land with flaps at landing configuration below 210 km/h.
+Gear warning annunciator will be activated when you forget to gear up or gear down. While airborne if you forget to gear up at speeds greater than 250 km/h Betty will call "Gear up" and if you forget to gear down when you are about to land with flaps at landing configuration below 210 km/h.
 
 I believe it is a better practice to warn the pilot earlier so thresholds are a little bit lower than the actual limits.
 
