@@ -98,7 +98,7 @@ namespace wt_betty
             catch (Exception ex)
             {
 
-                tbx_msgs.Text = ex.ToString();
+                tbx_msgs.Text = ex.Message;
                 dispatcherTimer1.Stop();
                 dispatcherTimer2.Start();
                 button_start.IsEnabled = true;
@@ -193,7 +193,7 @@ namespace wt_betty
             }
             catch (Exception ex)
             {
-                tbx_msgs.Text = ex.ToString();
+                tbx_msgs.Text = ex.Message;
                 dispatcherTimer1.Stop();
                 dispatcherTimer2.Start();
 
@@ -251,7 +251,7 @@ namespace wt_betty
             catch (Exception ex)
             {
 
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show(ex.Message);
             }
 
         }
@@ -281,7 +281,7 @@ namespace wt_betty
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show(ex.Message);
 
             }
 
