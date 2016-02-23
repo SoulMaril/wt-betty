@@ -1,0 +1,32 @@
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\bin\Debug\wt-betty.exe.config
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\bin\Debug\wt-betty.exe
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\bin\Debug\wt-betty.pdb
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\MainWindow.g.cs
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\App.g.cs
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty_MarkupCompile.cache
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty_MarkupCompile.lref
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\MainWindow.baml
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty.g.resources
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt_betty.Properties.Resources.resources
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty.csproj.GenerateResource.Cache
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty.exe
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty.pdb
+c:\users\ahmet.mehmetbeyoglu\documents\visual studio 2015\Projects\wt-betty\wt-betty\obj\Debug\wt-betty.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.mehmetbeyoglu\Documents\Visual Studio 2015\Projects\wt-betty\wt-betty\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmet.mehmetbeyoglu\Documents\Visual Studio 2015\Projects\wt-betty\wt-betty\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\bin\Debug\wt-betty.exe.config
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty.exe
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty.pdb
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\bin\Debug\wt-betty.exe
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\bin\Debug\wt-betty.pdb
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\MainWindow.g.cs
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\App.g.cs
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty_MarkupCompile.cache
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty_MarkupCompile.lref
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\MainWindow.baml
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty.g.resources
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt_betty.Properties.Resources.resources
+C:\Users\ahmet.mehmetbeyoglu\Source\Repos\wt-betty\wt-betty\obj\Debug\wt-betty.csproj.GenerateResource.Cache
