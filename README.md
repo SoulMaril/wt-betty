@@ -75,7 +75,8 @@ The utility may not perform properly with the bombers as there is no indicator v
 ========================
 License
 ========================
-This software is free to use, free to copy, free to share. You can do whatever you want. Just put credits to me for God sake.
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
 Copyright (c) 2016 Ahmet 'Europa' Mehmetbeyoglu
 Contact me in the War Thunder forums. 
