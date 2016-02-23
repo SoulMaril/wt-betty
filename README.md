@@ -1,6 +1,14 @@
 # wt-betty
 War Thunder's Betty. Cockpit warning sounds for simulator pilots.
 
+************************************************************************************
+This sofware does not modify or comprimise the integrity of any of
+the core War Thunder game files nor it does not have direct access to
+memory or decompile binary files rather It simply reads Json data from
+web client  at http://localhost:8111  which is available when the
+game starts.
+************************************************************************************
+
 ========================
 Before You Start
 ========================
@@ -17,28 +25,26 @@ The name "Betty" is a generic popular traditional name from American culture, an
 
 The enunciating voice, in at least some aircraft systems, may be either male or female and in some cases this may be selected according to pilot preference. If the voice is female it may be referred to as Bitching Betty; if the voice is male it may be referred to as Barking Bob. A female voice is heard on military aircraft such as the F-16 Fighting Falcon, the Eurofighter Typhoon and the Mikoyan MiG-29. A male voice is heard on Boeing commercial airliners and is also used in the BAE Hawk.
 
-========================
-War Thunder's Betty
-========================
-War Thunder's Betty is an add-on utility for Gaijin's War Thunder. The aim of the utility is to help simulator pilots by audible warnings as desktop pilots lack the real sense of flight and a physical cockpit environment. 
+===========================
+What is War Thunder's Betty
+===========================
+War Thunder's Betty is an add-on utility for Gaijin's War Thunder. The aim of the utility is to help simulator pilots by audible warnings as desktop pilots lack the real sense of flight and a physical cockpit environment. It will forewarn before you stall your aircraft, spin your aircraft or black out. It is very useful especially for new pilots or for those who have difficulties controlling the aircraft.
 
-The software do not change anything in the core files of War Thunder but it simply reads the indicators and states of the flight from  http://localhost:8111 and uses those values to operate.
-
-========================
+===========================
 Installation
-========================
+===========================
 1. Download
 2. Unzip
 3. Execute the wt-betty.exe executable (for example you may double click if you like ;)).
 
-========================
+===========================
 How to use it
-========================
+===========================
 Just run the software and it will begin listening for a valid flight and will start automatically when you jump into a flight. You dont have to worry about it. Just let it do its job in the background. But if you like you can still start/stop manually.
 
-========================
+===========================
 Behaviour
-========================
+===========================
 Currently there are 3 annunciator sounds.
 
 1. Over G warning
@@ -55,28 +61,29 @@ I believe it is a better practice to warn the pilot earlier so thresholds are a 
 
 If you like you can enable or disable the annunciators by clicking the checkboxes next to them at options. Default they will be all enabled.
 
-========================
+===========================
 Options
-========================
+===========================
 Checboxes: Enable/Disable
 Sliders: Change Thresholds
 Text Boxes: Just edit them
 
-========================
+===========================
 Aircraft Flight Models
-========================
+===========================
 Not all aircraft are same. They have different performance. This software will not and can not calculate dynamic performance data for particular flight models. They are just simple thresholds. Therefore you have the option to assign your own values and save them to your preferences from the options tab.
 
-========================
+===========================
 Known Issues
-========================
+===========================
 The utility may not perform properly with the bombers as there is no indicator values present for bomber types.
 
-========================
+===========================
 License
-========================
+===========================
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
 Copyright (c) 2016 Ahmet 'Europa' Mehmetbeyoglu
 Contact me in the War Thunder forums. 
+
