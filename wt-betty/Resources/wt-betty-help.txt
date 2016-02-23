@@ -12,6 +12,11 @@ Before You Start
 This software is currently BETA and I am the only tester so there may be bugs. Please feel free to report any bugs.
 
 ========================
+Requirements
+========================
+.NET Framework 4.5.2
+
+========================
 Bitching Betty
 ========================
 Source: https://www.wikiwand.com/en/Bitching_Betty
