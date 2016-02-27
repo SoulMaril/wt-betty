@@ -155,30 +155,33 @@ namespace wt_betty
                     int flaps = Convert.ToInt32(myState.flaps);
                     label.Content = myIndicator.type;
 
-                    if (G > User.Default.GForce && cbx_g.IsChecked == true)
+                    if (cbx_g.IsChecked == true && G > User.Default.GForce )
                     {
                         System.Media.SoundPlayer myPlayer;
-                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.OverG);
+                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.breaths);
                         myPlayer.PlaySync();
                     }
+
+                   
+
                     if (AoA > User.Default.AoA && myIndicator.gears_lamp == "1" && cbx_a.IsChecked == true)
                     {
                         System.Media.SoundPlayer myPlayer;
-                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.stallhorn);
+                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.carflt_stallhorn02);
                         myPlayer.PlaySync();
 
                     }
                     if (User.Default.EnableGear == true && gear == 100 && IAS > User.Default.GearUp)
                     {
                         System.Media.SoundPlayer myPlayer;
-                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.GearUp);
+                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.gearwarn);
                         myPlayer.PlaySync();
                     }
 
                     if (User.Default.EnableGear == true && gear == 0 && IAS < User.Default.GearDown && Alt < 500 && flaps > 20)
                     {
                         System.Media.SoundPlayer myPlayer;
-                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.GearDown);
+                        myPlayer = new System.Media.SoundPlayer(Properties.Resources.gearwarn);
                         myPlayer.PlaySync();
                     }
 
